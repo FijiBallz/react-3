@@ -10,7 +10,7 @@ function App() {
   const seconds = new Date().getSeconds(); 
   return (
     <>
-    <p>Aktualna godzina: {hours}:{minutes}:{seconds}</p> 
+    <p>Jest Godzina właśnie taka: {hours}:{minutes}:{seconds}</p> 
   </>
   
   )
